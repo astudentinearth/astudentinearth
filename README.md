@@ -10,7 +10,7 @@ I'm a 17 year old web developer building projects.
 ## 📚Projects
 - [Weather app built with React](https://github.com/astudentinearth/weather-app) | [Live demo](https://astudentinearth.github.io/weather-app)
 - [A todo application built with NextJS](https://github.com/todo-server)
-- [Note taking app with Tauri (work in progress)](https://github.com/astudentinearth/darkwrite)
+- [Note taking app with ElectronJS and React (work in progress)](https://github.com/astudentinearth/darkwrite)
 
 ## 🌍 Languages
 - Turkish (native)
