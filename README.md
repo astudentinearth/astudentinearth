@@ -1,24 +1,35 @@
-# 🌠 Hi there! I'm Burak.  
-I'm a 17 year old web developer building projects.
+# 🌠 Hi there! I'm Burak.
 
-## 🔧Technologies
-- **Languages |** TypeScript, JavaScript, C# (beginner)
-- **Libraries and frameworks |** React, NextJS, TailwindCSS, ExpressJS, Tauri
-- **Tools |** Vite (and vitest), Postgresql, Prisma, Linux
+I'm a 17 year old full-stack developer, designer and computer engineering student (English preparatory/4). I mostly work on web applications, with mobile development in my roadmap.
 
+<a href="https://twitter.com/codingwithburak">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+</a>
 
-## 📚Projects
-- [Weather app built with React](https://github.com/astudentinearth/weather-app) | [Live demo](https://astudentinearth.github.io/weather-app)
-- [A todo application built with NextJS](https://github.com/todo-server)
-- [Note taking app with ElectronJS and React (work in progress)](https://github.com/astudentinearth/darkwrite)
+## 🔧 Technologies
 
-## 🌍 Languages
-- Turkish (native)
-- English
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,react,postgres,electron,express,nextjs,nodejs,tailwind,tauri,docker,linux,dotnet,bash,vite&theme=dark&perline=8" />
+  </a>
+</p>
 
-## 📫 Let's Connect
-- [Twitter](https://twitter.com/coding)
+-   **Languages |** TypeScript, JavaScript, C# (beginner)
+-   **Libraries and frameworks |** React, NextJS, NodeJS, Electron, Tauri, .NET (beginner), Tailwind, Express, Prisma, Drizzle ORM
+-   **Tools |** Postgresql, Redis, Bash, Linux, Github Actions, Docker, Vite, Vitest, Playwright
 
-[![astudentinearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=astudentinearth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astudentinearth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📚 Projects
 
+-   [Weather app with React](https://github.com/astudentinearth/weather-app) | [Live demo](https://astudentinearth.github.io/weather-app)
+-   [Darkwrite: notes app with React, Electron and Nodejs (work in progress)](https://github.com/astudentinearth/darkwrite)
+-   [Todo application with Next 14](https://github.com/todo-server)
+-   [Realtime chat application with Next 14](https://github.com/astudentinearth/next14-chat-app)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=astudentinearth&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astudentinearth&layout=compact&theme=tokyonight"/>
+</p>
