@@ -10,12 +10,12 @@ I'm a 17 year old full-stack developer, designer and computer engineering studen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,cs,react,postgres,electron,express,nextjs,nodejs,tailwind,tauri,docker,linux,dotnet,bash,vite&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,react,postgres,electron,express,nextjs,nodejs,tailwind,flutter,docker,linux,dotnet,bash,vite&theme=dark&perline=8" />
   </a>
 </p>
 
--   **Languages |** TypeScript, JavaScript, C# (beginner)
--   **Libraries and frameworks |** React, NextJS, NodeJS, Electron, Tauri, .NET (beginner), Tailwind, Express, Prisma, Drizzle ORM
+-   **Languages |** TypeScript, JavaScript, Dart, C#
+-   **Libraries and frameworks |** React, NextJS, NodeJS, Electron, Tauri, .NET (beginner), Flutter, Express
 -   **Tools |** Postgresql, Redis, Bash, Linux, Github Actions, Docker, Vite, Vitest, Playwright
 
 ## 📚 Projects
