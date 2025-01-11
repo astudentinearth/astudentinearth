@@ -1,6 +1,6 @@
 # 🌠 Hi there! I'm Burak.
 
-I'm a 18 year old full-stack developer, designer and computer engineering student (English preparatory/4). I mostly work on web applications, with mobile development in my roadmap.
+I'm an 18 year old full-stack developer, designer and computer engineering student (English preparatory/4). I mostly work on web applications, with mobile development in my roadmap.
 
 <a href="https://twitter.com/codingwithburak">
         <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
