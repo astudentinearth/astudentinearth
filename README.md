@@ -12,7 +12,7 @@ I'm an 18 year old full-stack developer, designer and computer engineering stude
 
 -   [My website](https://yeniceri.dev)
 -   [Weather app with React](https://github.com/astudentinearth/weather-app) | [Live demo](https://astudentinearth.github.io/weather-app)
--   [Darkwrite: notes app with React, Electron and Nodejs (work in progress)](https://github.com/astudentinearth/darkwrite) | [darkwrite.app](https://darkwrite.app)
+-   [Darkwrite: notes app with React, Electron and Nodejs](https://github.com/astudentinearth/darkwrite) | [darkwrite.app](https://darkwrite.app)
 -   [Todo application with Next 14](https://github.com/todo-server)
 -   [Realtime chat application with Next 14](https://github.com/astudentinearth/next14-chat-app) | [chat.yeniceri.dev](https://chat.yeniceri.dev)
 
