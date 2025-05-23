@@ -4,7 +4,7 @@ I'm an 18 year old full-stack developer, designer and computer engineering stude
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,postgres,electron,express,nextjs,nodejs,tailwind,docker,linux&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=ts,java,react,postgres,kafka,spring,nextjs,nodejs,tailwind,docker,linux&theme=dark&perline=11" />
   </a>
 </p>
 
