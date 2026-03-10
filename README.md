@@ -3,7 +3,7 @@
 I craft things that make using a computer enjoyable. I also study computer science (1st year/4)
 
 ## You should check out
--   [Darkwrite - free and open source that is truly yours.](https://github.com/astudentinearth/darkwrite) | [darkwrite.app](https://darkwrite.app) > If you are looking for a calm, AI-free and customizable note-taking experience, this is for you. (Built w/ Electron, React and Redux)
+-   [Darkwrite - free and open source workspace that is truly yours.](https://github.com/astudentinearth/darkwrite) | [darkwrite.app](https://darkwrite.app) > If you are looking for a calm, AI-free and customizable note-taking experience, this is for you. (Built w/ Electron, React and Redux)
 -   [My website (yeniceri.dev)](https://yeniceri.dev) > if you are looking for my portfolio.
 
 <p align="center">
